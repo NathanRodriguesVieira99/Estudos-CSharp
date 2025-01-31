@@ -1,0 +1,14 @@
+C:\Projetos VsCode\C# no vscode\bin\Debug\net9.0\C# no vscode.exe
+C:\Projetos VsCode\C# no vscode\bin\Debug\net9.0\C# no vscode.deps.json
+C:\Projetos VsCode\C# no vscode\bin\Debug\net9.0\C# no vscode.runtimeconfig.json
+C:\Projetos VsCode\C# no vscode\bin\Debug\net9.0\C# no vscode.dll
+C:\Projetos VsCode\C# no vscode\bin\Debug\net9.0\C# no vscode.pdb
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.AssemblyInfoInputs.cache
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.AssemblyInfo.cs
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.dll
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\refint\C# no vscode.dll
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.pdb
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.genruntimeconfig.cache
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\ref\C# no vscode.dll
