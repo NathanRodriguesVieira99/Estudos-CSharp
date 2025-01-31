@@ -12,3 +12,4 @@ C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\refint\C# no vscode.dll
 C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.pdb
 C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.genruntimeconfig.cache
 C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\ref\C# no vscode.dll
+C:\Projetos VsCode\C# no vscode\obj\Debug\net9.0\C# no vscode.sourcelink.json
